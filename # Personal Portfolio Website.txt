@@ -1,0 +1,71 @@
+# Personal Portfolio Website
+
+This project is created as **Task-1 of the Full Stack Web Development Internship (ApexPlanet Software Pvt. Ltd.)**.
+
+The objective of this task is to build a **basic personal portfolio website using HTML, CSS, and JavaScript** and host it on GitHub.
+
+---
+
+## Project Description
+
+This portfolio website introduces my profile, technical skills, and projects.  
+It also includes a simple contact form with JavaScript interaction.
+
+The project demonstrates fundamental web development concepts including:
+
+- HTML page structure
+- CSS styling and layout
+- JavaScript form handling
+- Responsive design basics
+
+---
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Git
+- GitHub
+
+---
+
+## Website Sections
+
+The portfolio contains the following sections:
+
+1. **Header**
+   - Name and title
+
+2. **Navigation Bar**
+   - Links to different sections of the website
+
+3. **About Me**
+   - Introduction and background
+
+4. **Skills**
+   - List of technical skills
+
+5. **Projects**
+   - Sample projects built during learning
+
+6. **Contact Form**
+   - User can submit a message
+   - JavaScript displays a confirmation message
+
+7. **Footer**
+   - Copyright information
+
+---
+
+## Features
+
+- Clean and simple layout
+- Navigation between sections
+- Contact form validation
+- JavaScript interaction
+- Beginner-friendly structure
+
+---
+
+## Project Structure
